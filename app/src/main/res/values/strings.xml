@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SeekBarDialog</string>
+    <string name="door_smart_open_time">Opening time</string>
+    <string name="button_title_confirm">Continue</string>
+</resources>
